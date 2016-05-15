@@ -110,6 +110,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/nx503a/proprietary/lib/hw/sensors.oem.so:system/lib/hw/sensors.oem.so \
     vendor/zte/nx503a/proprietary/vendor/firmware/bcm4339.hcd:system/vendor/firmware/bcm4339.hcd \
     vendor/zte/nx503a/proprietary/vendor/firmware/libpn544_fw.so:system/vendor/firmware/libpn544_fw.so \
+    vendor/zte/nx503a/proprietary/vendor/lib/libqti-perfd-client.so:system/vendor/lib/libqti-perfd-client.so \
     vendor/zte/nx503a/proprietary/vendor/lib/libacdbloader.so:system/vendor/lib/libacdbloader.so \
     vendor/zte/nx503a/proprietary/vendor/lib/lib-imscamera.so:system/vendor/lib/lib-imscamera.so \
     vendor/zte/nx503a/proprietary/vendor/lib/lib-imsdpl.so:system/vendor/lib/lib-imsdpl.so \
