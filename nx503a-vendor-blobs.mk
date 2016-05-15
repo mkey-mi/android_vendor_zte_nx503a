@@ -16,6 +16,7 @@
 
 # Prebuilt libraries that are needed to build open-source libraries
 PRODUCT_COPY_FILES += \
+    vendor/zte/nx503a/proprietary/usr/keylayout/Generic.kl:system/usr/keylayout/Generic.kl \
     vendor/zte/nx503a/proprietary/bin/adsprpcd:system/bin/adsprpcd \
     vendor/zte/nx503a/proprietary/bin/ATFWD-daemon:system/bin/ATFWD-daemon \
     vendor/zte/nx503a/proprietary/bin/btCommand:system/bin/btCommand \
